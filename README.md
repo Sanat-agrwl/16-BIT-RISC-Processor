@@ -1,4 +1,4 @@
-# 16-BIT RISC Processor ⚙️
+# 16-BIT RISC Processor 
 
 **Short description**
 
